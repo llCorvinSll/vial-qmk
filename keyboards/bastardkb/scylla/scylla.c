@@ -17,6 +17,8 @@
 
 #include "quantum.h"
 
+// tap_dance_action_t tap_dance_actions[] = {};
+
 // clang-format off
 #ifdef RGB_MATRIX_ENABLE
 led_config_t g_led_config = { {
